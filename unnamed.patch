@@ -1,0 +1,334 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+--- /dev/null	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
++++ b/.gitignore	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
+@@ -0,0 +1,29 @@
++### IntelliJ IDEA ###
++out/
++!**/src/main/**/out/
++!**/src/test/**/out/
++
++### Eclipse ###
++.apt_generated
++.classpath
++.factorypath
++.project
++.settings
++.springBeans
++.sts4-cache
++bin/
++!**/src/main/**/bin/
++!**/src/test/**/bin/
++
++### NetBeans ###
++/nbproject/private/
++/nbbuild/
++/dist/
++/nbdist/
++/.nb-gradle/
++
++### VS Code ###
++.vscode/
++
++### Mac OS ###
++.DS_Store
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
++++ b/.idea/misc.xml	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
++++ b/.idea/modules.xml	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/_01_WrapperClasses_HW.iml" filepath="$PROJECT_DIR$/_01_WrapperClasses_HW.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
++++ b/.idea/vcs.xml	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
++++ b/.idea/workspace.xml	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
+@@ -0,0 +1,75 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="cce431c1-6a51-4cc6-8b86-f2f8c613f7ec" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/_01_WrapperClasses_HW.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectId" id="2KsSOy426lwvHjUrZTLFlwCxOvu" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "vue.rearranger.settings.migration": "true"
++  }
++}]]></component>
++  <component name="RunManager">
++    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Main" />
++      <module name="_01_WrapperClasses_HW" />
++      <option name="PROGRAM_PARAMETERS" value="gdfgdfg byte" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.Main" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="cce431c1-6a51-4cc6-8b86-f2f8c613f7ec" name="Changes" comment="" />
++      <created>1674761769418</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1674761769418</updated>
++      <workItem from="1674761770589" duration="3546000" />
++    </task>
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++</project>
+\ No newline at end of file
+Index: _01_WrapperClasses_HW.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/_01_WrapperClasses_HW.iml b/_01_WrapperClasses_HW.iml
+new file mode 100644
+--- /dev/null	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
++++ b/_01_WrapperClasses_HW.iml	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Main.java b/src/Main.java
+new file mode 100644
+--- /dev/null	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
++++ b/src/Main.java	(revision d1a8e24b98ed41515d817c1a38b2c967cfe3b35c)
+@@ -0,0 +1,54 @@
++import java.util.Arrays;
++
++public class Main {
++    //["byte","short","int","long","float","double","char"];
++    public static void main(String[] args) {
++        if (args.length < 1) {
++            System.out.println("Maximum value Byte = " + Byte.MAX_VALUE);
++            System.out.println("Minimum value Byte = " + Byte.MIN_VALUE);
++            System.out.println("<= **** =>");
++            System.out.println("Maximum value Short = " + Short.MAX_VALUE);
++            System.out.println("Minimum value Short = " + Short.MIN_VALUE);
++            System.out.println("<= **** =>");
++            System.out.println("Maximum value Integer = " + Integer.MAX_VALUE);
++            System.out.println("Minimum value Integer = " + Integer.MIN_VALUE);
++            System.out.println("<= **** =>");
++            System.out.println("Maximum value Long = " + Long.MAX_VALUE);
++            System.out.println("Minimum value Long = " + Long.MIN_VALUE);
++            System.out.println("<= **** =>");
++            System.out.println("Maximum value Float = " + Float.MAX_VALUE);
++            System.out.println("Minimum value Float = " + Float.MIN_VALUE);
++            System.out.println("<= **** =>");
++            System.out.println("Maximum value Double = " + Double.MAX_VALUE);
++            System.out.println("Minimum value Double = " + Double.MIN_VALUE);
++            System.out.println("<= **** =>");
++            System.out.println("Maximum value Char = " + Character.MAX_VALUE);
++            System.out.println("Minimum value Char = " + Character.MIN_VALUE);
++        } else {
++/*            TypeCheck(args);*/
++            for (int i = 0; i < args.length; i++) {
++                if (args[i].toUpperCase().equals("BYTE")) {
++                    System.out.println("Maximum value Byte = " + Byte.MAX_VALUE);
++                    System.out.println("Minimum value Byte = " + Byte.MIN_VALUE);
++                } else if (args[i].toUpperCase().equals("SHORT")) {
++                    System.out.println("Maximum value Short = " + Short.MAX_VALUE);
++                    System.out.println("Minimum value Short = " + Short.MIN_VALUE);
++                } else if (args[i].toUpperCase().equals("INT")) {
++                    System.out.println("Maximum value Integer = " + Integer.MAX_VALUE);
++                    System.out.println("Minimum value Integer = " + Integer.MIN_VALUE);
++                } else if (args[i].toUpperCase().equals("LONG")) {
++                    System.out.println("Maximum value Long = " + Long.MAX_VALUE);
++                    System.out.println("Minimum value Long = " + Long.MIN_VALUE);
++                } else if (args[i].toUpperCase().equals("DOUBLE")) {
++                    System.out.println("Maximum value Double = " + Double.MAX_VALUE);
++                    System.out.println("Minimum value Double = " + Double.MIN_VALUE);
++                } else if (args[i].toUpperCase().equals("CHAR")) {
++                    System.out.println("Maximum value Char = " + Character.MAX_VALUE);
++                    System.out.println("Minimum value Char = " + Character.MIN_VALUE);
++                } else {
++                    System.out.println(args[i] + " Wrong type");
++                }
++            }
++        }
++    }
++}
+\ No newline at end of file
+diff --git a/_01_WrapperClasses_HW.zip b/_01_WrapperClasses_HW.zip
+new file mode 100644
+index 0000000000000000000000000000000000000000..47e655e10365de79b08fa7f9c7bd1c0b0c3376fa
+GIT binary patch
+literal 4128
+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
+DUg3%)
+

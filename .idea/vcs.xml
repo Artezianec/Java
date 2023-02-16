@@ -4,5 +4,12 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_01_WrapperClasses_24_01_2023" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/_01_WrapperClasses_HW" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_02-String-HW" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_03_UserTest_07_02_023" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_03_UserTet_HW" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_04_RegEx_10_02_2023" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_04_Validator_HW" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_05_HW_PhotoSelector" vcs="Git" />
   </component>
 </project>

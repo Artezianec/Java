@@ -43,8 +43,8 @@ public class Main {
                     System.out.println("Maximum value Double = " + Double.MAX_VALUE);
                     System.out.println("Minimum value Double = " + Double.MIN_VALUE);
                 } else if (args[i].toUpperCase().equals("CHAR")) {
-                    System.out.println("Maximum value Char = " + Character.MAX_VALUE);
-                    System.out.println("Minimum value Char = " + Character.MIN_VALUE);
+                    System.out.println("Maximum value Char = " + Integer.toString(Character.MAX_VALUE));
+                    System.out.println("Minimum value Char = " + Integer.toString(Character.MIN_VALUE));
                 } else {
                     System.out.println(args[i] + " Wrong type");
                 }

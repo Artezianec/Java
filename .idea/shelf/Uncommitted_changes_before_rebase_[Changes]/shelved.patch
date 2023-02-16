@@ -1,0 +1,183 @@
+Index: src/Main.java
+===================================================================
+diff --git a/src/Main.java b/src/Main.java
+deleted file mode 100644
+--- a/src/Main.java	(revision ea92ad81285bfe31b6217e550b9f416e4394e6e9)
++++ /dev/null	(revision ea92ad81285bfe31b6217e550b9f416e4394e6e9)
+@@ -1,5 +0,0 @@
+-public class Main {
+-    public static void main(String[] args) {
+-        System.out.println("Hello world!");
+-    }
+-}
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"56e4ab86-c20e-4634-b08f-d3f0c89d0545\" name=\"Changes\" comment=\"up\">\r\n      <change afterPath=\"$PROJECT_DIR$/_02-String-HW/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_02-String-HW/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_02-String-HW/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_02-String-HW/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_02-String-HW/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_02-String-HW/_02-String-HW.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_02-String-HW/src/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/_03_StringPerfomance_07_02_2023.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/telran/builder/controller/StringBuilderAppl.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/telran/builder/controller/StringPerfomanceTest.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/telran/goat/controller/GoatAppl.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/telran/goat/model/Goat.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTest_07_02_023/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTest_07_02_023/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTest_07_02_023/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTest_07_02_023/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTest_07_02_023/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTest_07_02_023/_03_UserTest_07_02_023.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTest_07_02_023/src/Main.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTest_07_02_023/src/telran/user/test/UserTest.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTet_HW/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTet_HW/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTet_HW/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTet_HW/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTet_HW/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTet_HW/_03_UserTet_HW.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTet_HW/src/telran/user/model/User.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_03_UserTet_HW/src/telran/user/test/UserTest.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_RegEx_10_02_2023/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_RegEx_10_02_2023/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_RegEx_10_02_2023/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_RegEx_10_02_2023/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_RegEx_10_02_2023/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_RegEx_10_02_2023/_04_RegEx_10_02_2023.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_RegEx_10_02_2023/src/MainTest.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_Validator_HW/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_Validator_HW/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_Validator_HW/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_Validator_HW/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_Validator_HW/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/_04_Validator_HW/_04_Validator_HW.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/_01_WrapperClasses_24_01_2023\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/_01_WrapperClasses_24_01_2023\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/_01_WrapperClasses_24_01_2023/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/_01_WrapperClasses_24_01_2023/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/_01_WrapperClasses_HW\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/_01_WrapperClasses_HW\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/_01_WrapperClasses_HW/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/_01_WrapperClasses_HW/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/_01_WrapperClasses_HW/_01_WrapperClasses_HW.zip\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/_01_WrapperClasses_HW/_01_WrapperClasses_HW.zip\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/_01_WrapperClasses_HW/src/Main.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/_01_WrapperClasses_HW/src/Main.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Rebase.Settings\">\r\n    <option name=\"NEW_BASE\" value=\"origin/master\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/_03_UserTet_HW\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2KsR8eeyTpjAYzMy0GKDp8teYTa\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"C:/tel-ran/Java\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"56e4ab86-c20e-4634-b08f-d3f0c89d0545\" name=\"Changes\" comment=\"\" />\r\n      <created>1674761149065</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674761149065</updated>\r\n      <workItem from=\"1674767370245\" duration=\"23000\" />\r\n      <workItem from=\"1674767605647\" duration=\"4000\" />\r\n      <workItem from=\"1675010693002\" duration=\"58000\" />\r\n      <workItem from=\"1675785520128\" duration=\"680000\" />\r\n      <workItem from=\"1675787073689\" duration=\"23000\" />\r\n      <workItem from=\"1675791990969\" duration=\"31000\" />\r\n      <workItem from=\"1675973528614\" duration=\"120000\" />\r\n      <workItem from=\"1676013330394\" duration=\"498000\" />\r\n      <workItem from=\"1676014083102\" duration=\"91000\" />\r\n      <workItem from=\"1676108762244\" duration=\"24000\" />\r\n      <workItem from=\"1676572271637\" duration=\"20000\" />\r\n      <workItem from=\"1676572676160\" duration=\"32000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"up\">\r\n      <created>1674765625454</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674765625454</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"up\">\r\n      <created>1674765978134</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1674765978134</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"up\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"up\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ea92ad81285bfe31b6217e550b9f416e4394e6e9)
++++ b/.idea/workspace.xml	(date 1676573947256)
+@@ -4,64 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="56e4ab86-c20e-4634-b08f-d3f0c89d0545" name="Changes" comment="up">
+-      <change afterPath="$PROJECT_DIR$/_02-String-HW/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_02-String-HW/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_02-String-HW/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_02-String-HW/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_02-String-HW/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_02-String-HW/_02-String-HW.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_02-String-HW/src/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/_03_StringPerfomance_07_02_2023.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/telran/builder/controller/StringBuilderAppl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/telran/builder/controller/StringPerfomanceTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/telran/goat/controller/GoatAppl.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_StringPerfomance_07_02_2023/src/telran/goat/model/Goat.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTest_07_02_023/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTest_07_02_023/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTest_07_02_023/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTest_07_02_023/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTest_07_02_023/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTest_07_02_023/_03_UserTest_07_02_023.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTest_07_02_023/src/Main.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTest_07_02_023/src/telran/user/test/UserTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTet_HW/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTet_HW/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTet_HW/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTet_HW/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTet_HW/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTet_HW/_03_UserTet_HW.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTet_HW/src/telran/user/model/User.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_03_UserTet_HW/src/telran/user/test/UserTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_RegEx_10_02_2023/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_RegEx_10_02_2023/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_RegEx_10_02_2023/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_RegEx_10_02_2023/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_RegEx_10_02_2023/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_RegEx_10_02_2023/_04_RegEx_10_02_2023.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_RegEx_10_02_2023/src/MainTest.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_Validator_HW/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_Validator_HW/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_Validator_HW/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_Validator_HW/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_Validator_HW/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/_04_Validator_HW/_04_Validator_HW.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/_01_WrapperClasses_24_01_2023" beforeDir="false" afterPath="$PROJECT_DIR$/_01_WrapperClasses_24_01_2023" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/_01_WrapperClasses_24_01_2023/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_01_WrapperClasses_24_01_2023/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/_01_WrapperClasses_HW" beforeDir="false" afterPath="$PROJECT_DIR$/_01_WrapperClasses_HW" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/_01_WrapperClasses_HW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_01_WrapperClasses_HW/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/_01_WrapperClasses_HW/_01_WrapperClasses_HW.zip" beforeDir="false" afterPath="$PROJECT_DIR$/_01_WrapperClasses_HW/_01_WrapperClasses_HW.zip" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/_01_WrapperClasses_HW/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/_01_WrapperClasses_HW/src/Main.java" afterDir="false" />
+-    </list>
++    <list default="true" id="56e4ab86-c20e-4634-b08f-d3f0c89d0545" name="Changes" comment="up" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -71,7 +14,8 @@
+     <option name="NEW_BASE" value="origin/master" />
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_03_UserTet_HW" />
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="ROOT_SYNC" value="SYNC" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -82,19 +26,19 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "last_opened_file_path": "C:/tel-ran/Java",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/tel-ran/Java&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -115,6 +59,7 @@
+       <workItem from="1676108762244" duration="24000" />
+       <workItem from="1676572271637" duration="20000" />
+       <workItem from="1676572676160" duration="32000" />
++      <workItem from="1676573636806" duration="309000" />
+     </task>
+     <task id="LOCAL-00001" summary="up">
+       <created>1674765625454</created>
+@@ -130,7 +75,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1674765978134</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="up">
++      <created>1676573667598</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1676573667598</updated>
++    </task>
++    <task id="LOCAL-00004" summary="up">
++      <created>1676573846532</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1676573846532</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -141,7 +100,19 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="master" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
+           </value>
+         </entry>
+       </map>
